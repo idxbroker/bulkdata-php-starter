@@ -1,0 +1,9 @@
+{
+    "api-endpoint": "https://data-services.idxbroker.com/beta/live/",
+    "x-api-key": "X-API-KEY",
+    "username": "USERNAME",
+    "password": "PASSWORD",
+    "cache-store": "file",
+    "token-cache-file-path": "/tmp",
+    "token-cache-key": "idx-bulkdata-token"
+}

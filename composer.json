@@ -1,0 +1,17 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.3",
+        "nesbot/carbon": "^2.1"
+    },
+    "autoload": {
+      "psr-4": {
+        "Idx\\": "src/"
+      }
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.3"
+    },
+    "scripts": {
+        "run-example": "php example.php"
+    }
+}
